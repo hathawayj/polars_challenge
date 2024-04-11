@@ -21,7 +21,7 @@ By the Middle Ages, the Christian influence on naming practices was pervasive. E
 
 ### Challenge request
 
-- [ ] Make a private fork of this repo.
+- [ ] Make a private copy of this template repo.
 - [ ] Invite the GitHub user `hathawayj` to your repo as an admin.
 - [ ] Complete the challenge by using the Polars and your choice of plotting package.
 - [ ] Save your .py script and images to your repository.
